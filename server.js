@@ -1,7 +1,5 @@
 console.log("Starting ZOO Solana Checkout API...");
 
-require('dotenv').config();
-
 const express = require('express');
 const cors = require('cors');
 
